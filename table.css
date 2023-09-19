@@ -1,0 +1,13 @@
+table{
+    width: 100%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-collapse: collapse;
+}
+tbody tr:nth-of-type(odd){
+    background-color: aquamarine;
+}
+tr, td{
+    padding: 1em;
+    border: 1px solid #000;
+}
+
